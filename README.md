@@ -13,3 +13,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: What we know is a 💧 What we don't know is an 🌊🌊🌊🌊🌊
 - ⟲ 9to5 : ML programmer
+
+<img align="right" src="https://github-readme-stats.cong.moe/api/top-langs/?username=huevi&hide=css" />
