@@ -2,9 +2,6 @@
 
 
 
-
-<img align="right" src="https://github-readme-stats.cong.moe/api/top-langs/?username=huevi&hide=css" />
-
 - 🔭 I’m currently working on news aggregation
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Data journalism 
